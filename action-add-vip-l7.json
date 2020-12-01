@@ -1,0 +1,12 @@
+{
+  "lbcli": [
+    {
+      "action": "add-vip",
+      "layer": 7,
+      "vip": "Test_webserver",
+      "ip": "192.168.25.250", 
+      "ports": "443",
+      "mode": "tcp"
+   }
+  ]
+}
